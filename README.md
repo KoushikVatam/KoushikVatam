@@ -92,17 +92,8 @@
 
 ### 📄 Publication
 
-📝 **Efficient Machine Learning & Deep Learning Approaches for Disease Detection**
+📝 **[Efficient Machine Learning & Deep Learning Approaches for Disease Detection](https://drive.google.com/file/d/1v2nQRrvfWcgepyUTBx950BfRtQzMujWx/view?usp=sharing)**
 *11th International Conference on Communication and Signal Processing (ICCSP), June 2025*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KoushikVatam&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikVatam&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
 
 ---
 
