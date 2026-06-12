@@ -95,6 +95,10 @@
 📝 **[Efficient Machine Learning & Deep Learning Approaches for Disease Detection](https://drive.google.com/file/d/1v2nQRrvfWcgepyUTBx950BfRtQzMujWx/view?usp=sharing)**
 *11th International Conference on Communication and Signal Processing (ICCSP), June 2025*
 
+<a href="https://ieeexplore.ieee.org/document/11088670">
+  <img src="https://img.shields.io/badge/Read%20Full%20Paper%20on%20IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+
 ---
 
 ⚡ **Fun fact:** I built an IoT honeypot that captures live DDoS attack traffic and classifies attack patterns using ML — all inside Docker containers!
