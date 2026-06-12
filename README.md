@@ -85,7 +85,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1oJ2blePvGwi-D9OIlofQWiXvq3JYmUCV/view?usp=sharing"><img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 </p>
 
 ---
