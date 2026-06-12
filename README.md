@@ -1,53 +1,108 @@
-## Hi there 👋 I'm Sai Koushik Reddy Vatam
+<h1 align="center">Hi there 👋 I'm Sai Koushik Reddy Vatam</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Analyst+%40+Airbus;ML+%2B+Security+Enthusiast;IoT+Security+%7C+Threat+Detection;Building+Smarter+Security+Systems" alt="Typing SVG" />
+</p>
+
+---
 
 ### 👨‍💻 Who am I?
-I'm a Computer Science graduate (B.Tech, Information Security) from VIT Vellore, currently working as a **Cyber Security Analyst Intern at Airbus**. I'm passionate about the intersection of **cybersecurity and machine learning** — building systems that detect threats, protect networks, and automate security workflows.
+
+🎓 Computer Science graduate **(B.Tech, Information Security)** from **VIT Vellore**
+🛡️ Currently working as a **Cyber Security Analyst Intern @ Airbus**
+🤖 Passionate about the intersection of **Cybersecurity × Machine Learning**
+🔍 Building systems that **detect threats, protect networks & automate security workflows**
 
 ---
 
 ### 🔭 What am I currently working on?
-- Threat detection & incident response at **Airbus**, analyzing network traffic and investigating suspicious activities
-- Building automation scripts and forensic tools to streamline large-scale security log analysis
-- Exploring **IoT security**, DDoS detection, and ML-based anomaly detection frameworks
+
+🔸 Threat detection & incident response at **Airbus** — analyzing network traffic & investigating suspicious activities
+🔸 Building **automation scripts & forensic tools** to streamline large-scale security log analysis
+🔸 Exploring **IoT Security**, DDoS Detection & ML-based anomaly detection frameworks
 
 ---
 
 ### 🛠️ Tools & Technologies I Use
 
-| Domain | Tools / Frameworks |
-|---|---|
-| **Languages** | Python, Java, SQL, PowerShell |
-| **Cybersecurity** | Nessus, Snort, Wireshark, Metasploit, MITRE ATT&CK, NIST |
-| **ML / AI** | Scikit-learn, TensorFlow, CNNs, Random Forest, XGBoost |
-| **Systems** | Linux, Docker, Git, AWS |
-| **Web** | Flask, Bootstrap |
+**💻 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**🔐 Cybersecurity**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-FF0000?style=for-the-badge&logo=target&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-003087?style=for-the-badge&logo=nist&logoColor=white)
+
+**🤖 ML / AI**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189900?style=for-the-badge&logo=xgboost&logoColor=white)
+
+**⚙️ Systems & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**🌐 Web**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
 ### 🌱 What am I currently learning?
-- Advanced threat hunting and forensic analysis techniques
-- Cloud security on AWS
-- Deepening skills in ML-based intrusion detection systems
+
+🔍 Advanced **threat hunting** and forensic analysis techniques
+☁️ **Cloud Security** on AWS
+🧠 Deepening skills in **ML-based intrusion detection** systems
 
 ---
 
 ### 📫 How to reach me
-- 📧 Email: saikoushikvatam@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sai-koushik](https://linkedin.com/in/sai-koushik)
-- 🐙 GitHub: [github.com/KoushikVatam](https://github.com/KoushikVatam)
-- 📱 Phone: +91 8297570358
+
+<p align="left">
+  <a href="mailto:saikoushikvatam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sai-koushik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KoushikVatam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+📱 **Phone:** +91 8297570358
 
 ---
 
 ### 🏆 Certifications
-- 🔐 Google Cybersecurity Professional Certificate
-- ☁️ AWS Certified Cloud Practitioner
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
 ---
 
 ### 📄 Publication
-**Efficient Machine Learning & Deep Learning Approaches for Disease Detection**  
+
+📝 **Efficient Machine Learning & Deep Learning Approaches for Disease Detection**
 *11th International Conference on Communication and Signal Processing (ICCSP), June 2025*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoushikVatam&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoushikVatam&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
 
 ---
 
