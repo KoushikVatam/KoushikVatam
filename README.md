@@ -75,6 +75,7 @@
   <a href="mailto:saikoushikvatam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sai-koushik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/KoushikVatam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1pMUSPNfwHOeCAavBahkLrI2hyVjdYS38/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 📱 **Phone:** +91 8297570358
@@ -95,9 +96,14 @@
 📝 **[Efficient Machine Learning & Deep Learning Approaches for Disease Detection](https://drive.google.com/file/d/1v2nQRrvfWcgepyUTBx950BfRtQzMujWx/view?usp=sharing)**
 *11th International Conference on Communication and Signal Processing (ICCSP), June 2025*
 
-<a href="https://ieeexplore.ieee.org/document/11088670">
-  <img src="https://img.shields.io/badge/Read%20Full%20Paper%20on%20IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
-</a>
+<p align="left">
+  <a href="https://ieeexplore.ieee.org/document/11088670">
+    <img src="https://img.shields.io/badge/Read%20Full%20Paper%20on%20IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1agOR-OCHiGUr17EWjg8iH8t_lVEtkA-1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Presentation%20Certificate-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
