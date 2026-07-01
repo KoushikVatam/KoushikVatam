@@ -74,9 +74,9 @@
 <p align="left">
   <a href="https://portfoliokoushik.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="mailto:saikoushikvatam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/sai-koushik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sai-koushik-reddy-vatam-b216a3232"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/KoushikVatam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1pMUSPNfwHOeCAavBahkLrI2hyVjdYS38/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1cboxyaJsTqwDzrdLs4TN1auSYfhbDIx1/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
 </p>
 
 📱 **Phone:** +91 8297570358
